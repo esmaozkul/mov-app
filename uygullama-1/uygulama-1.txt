@@ -1,0 +1,16 @@
+* "mov-app/uygulama-1" klasör oluştur 
+"Yüzüklerin Efendisi: Yüzük Kardeşliği.html" isminde dosya oluştur 
+html5 yapısına uygun bir html içeriği ekle
+sayfa başlığını "Yüzüklerin Efendisi: Yüzük Kardeşliği" olarak tanımla 
+sayfa içeriği için aşağıdaki bilgileri kullan 
+seo için meta etiketlerini araştırıp kullan
+Başlık : Yüzüklerin Efendisi: Yüzük Kardeşliği
+Yönetmen :Peter Jackson
+Özet: Çok eski çağlarda Elf demircileri, güç yüzüklerini sihirli ustalıklarıyla yapmış ve 
+Karanlıkların Efendisi Sauron, bu yüzükleri işleyip kendi gücüyle doldurmuştur.
+ Daha sonra kendisinden çalınan, diğer tüm yüzüklere hükmeden, 
+ Tek Yüzüğü bütün gücüyle tüm Orta Dünya'da aramasına rağmen bulamamıştır. 
+ Yüzük, Shire Bölgesi'nde yaşayan Frodo Baggins adlı bir hobbitte bulunmaktadır. 
+ Ancak çok büyük bir güce sahip bu yüzüğü yok etmek gerekmektedir. 
+ Frodo ve arkadaşları, diğer ırklardan gelen arkadaşlarıyla birlikte yüzük kardeşliğini oluşturur 
+ ve hepsi bu yolculukta büyücü Gri Gandalf'ı izler.

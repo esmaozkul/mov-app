@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="register.php">
+      <div>
+        <label for="name">Adınız</label>
+        <input type="text" id="name" />
+      </div>
+      <div>
+        <label for="name">Soyadınız</label>
+        <input type="text" id="Soyadınız" />
+      </div>
+
+      <div>
+        <label for="parola">parola</label>
+        <input type="password" id="parola" />
+      </div>
+
+      <div>
+        <label for="intro">kendini anlat</label>
+        <textarea id="intro" cols="35"></textarea>
+      </div>
+      <div>
+        <p>En sevdiğin programlama dili</p>
+        <input type="radio" id="python" name="programlama" />
+        <label for="python">python</label>
+        <input type="radio" id="java" name="programlama" />
+        <label for="java">java</label>
+        <input type="radio" id="c#" name="programlama" />
+        <label for="c#">c#</label>
+      </div>
+
+      <div>
+        <p>En sevdiğin programlama dili</p>
+        <input type="checkbox" id="python2" />
+        <label for="python2">python</label>
+        <input type="checkbox" id="java2" />
+        <label for="java2">java</label>
+        <input type="checkbox" id="c#2" />
+        <label for="c#2">c#</label>
+      </div>
+      <div>
+        <label for="cities">Şehir</label>
+        <select id="cities">
+          <option value="35">İzmir</option>
+          <option value="34">İstanbul</option>
+        </select>
+      </div>
+      <div>
+        <label for="eposta">Email</label>
+        <input type="eposta" id="eposta" />
+      </div>
+      <div>
+        <label for="birthday">birthday:</label>
+        <input type="date" id="birthday" name="birthday" />
+      </div>
+      <button type="submit">Kaydet</button>
+      <button type="reset">reset</button>
+    </form>
+  </body>
+</html>
